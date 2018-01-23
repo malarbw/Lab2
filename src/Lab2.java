@@ -40,7 +40,7 @@ public class Lab2 {
 			}
 			break;
 		}
-		System.out.println("Thanks, " + userName + ". Goodbye!");
+		System.out.println("Thanks, " + userName + ". Goodbye!"); //end the program officially
 
 	}
 
